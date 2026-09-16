@@ -4,9 +4,10 @@
       "root": "frontend",
       "framework": "nextjs"
     },
-    "backend": {
-      "root": "backend"
-    }
+  "backend": {
+  "root": "backend",
+  "entrypoint": "main:app"
+}
   },
   "rewrites": [
     {
