@@ -2,5 +2,5 @@
   "name": "recapmm-ai",
   "private": true,
   "scripts": {"dev":"next dev","build":"next build","start":"next start"},
-  "dependencies": {"next":"latest","react":"latest","react-dom":"latest"}
+  "dependencies": {"next": "15.5.0","react":"latest","react-dom":"latest"}
 }
